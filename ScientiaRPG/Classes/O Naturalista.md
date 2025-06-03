@@ -1,0 +1,2 @@
+"*Tal é a beleza da natureza que se move, que respira e que pulsa - toda uma vida devota a sua mera apreciação já se faria por bem vivida. Alguns, entretanto, tem o desejo de leva-la ao gume, descobrir o que há além da passiva observação.*"
+- Dr. Pílula

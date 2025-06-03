@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "45a28c171aa43212",
+    "type": "split",
+    "children": [
+      {
+        "id": "18e9e348dc511b75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc11255ce7a1e2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinos Lembrados/povos baixos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "povos baixos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "affd4ce8aa98e7b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "475748b9b95997b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48737f16de4bb584",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "436874c1f16dad05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "1b2538df661254d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "74570dd964d49dd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0a9659fd0918917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "013cf105f0f52b99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deuses Antigos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Deuses Antigos"
+            }
+          },
+          {
+            "id": "a344448cabfcd55b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deuses Antigos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Deuses Antigos"
+            }
+          },
+          {
+            "id": "74f8db704121c74a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dbb6bb11dd44f71a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deuses Antigos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Deuses Antigos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "48737f16de4bb584",
+  "lastOpenFiles": [
+    "Stress!",
+    "Reinos Lembrados/Itens/As Atas de Baator.md",
+    "Reinos Lembrados",
+    "Reinos Lembrados/Jorji Mahal.md",
+    "Reinos Lembrados/Itens",
+    "ScientiaRPG/Welcome.md",
+    "ScientiaRPG",
+    "Reinos Lembrados/O Demonomicon de Iggwilv.md",
+    "Reinos Lembrados/povos baixos.md",
+    "Reinos Lembrados/Itens/Relíquias do Mundo Antigo.md",
+    "Reinos Lembrados/Itens/Materiais exóticos.md",
+    "Reinos Lembrados/Itens/textos selados.md",
+    "Reinos Lembrados/Deuses/O Eremita Saltitante.md",
+    "Reinos Lembrados/Deuses/A Morte Uivante.md",
+    "Reinos Lembrados/Deuses/A Dama das Ondas.md",
+    "Reinos Lembrados/Deuses/A Morte Eterna.md",
+    "Reinos Lembrados/Deuses/A Montanha Solitária.md",
+    "Reinos Lembrados/Deuses/Meia-Sombra.md",
+    "Reinos Lembrados/Deuses",
+    "Reinos Lembrados/Deuses/A Besta do Inverno.md",
+    "Reinos Lembrados/Deuses/Meg.md",
+    "Reinos Lembrados/Itens/As Relíquias.md",
+    "Sem título",
+    "Sem título.canvas",
+    "2025-03-26.md",
+    "Reinos Lembrados/Abismo.md",
+    "Reinos Lembrados/Dílus, Meitheal, Tairngir e Uabhar - Desejo, Esforço, Perseverança e Obstinação.md",
+    "Reinos Lembrados/Deuses Antigos.md",
+    "Reinos Lembrados/Feitiços de Banimento.md",
+    "Domínio.md",
+    "Welcome.md"
+  ]
+}

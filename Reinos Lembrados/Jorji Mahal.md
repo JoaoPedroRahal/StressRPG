@@ -1,0 +1,9 @@
+Jorji nasceu em uma família nobre da costa da espada. Foi educado como tal desde cedo e teve a oportunidade de escolher o caminho que mais lhe apetecia - a Alquimia. Interessado no campo desde cedo, teve a sua disponibilidade professores particulares e tomos sobre a área.
+
+Sua família, entretanto, tinha ligações excusas com os Zhentarim - permitiam que eles operassem sob seus territórios mediante pagamento e colaboravam com empreendimentos excusos. Quando chegou à maioridade, Jorji percebeu que continuar nos negócios da família envolveria vender seu trabalho para a rede criminosa. Continuar na família sem contribuir para a rede colocaria um grande alvo em suas costas, então com isso ele decidiu fugir e viajar sozinho, vivendo da sua alquimia e desenvolvendo suas habilidades.
+
+Em uma noite, ele juntou o que podia e pagou um cocheiro da família para sumir com ele. Ele foi levado à Baldur's Gate, onde conseguiu uma nova identidade e começou sua nova vida como aventureiro. Foi na cidade que conheceu Franciscano, e sua parceria começou desde então.
+
+Foi observando o porto da cidade que teve sua inspiração para começar A GAIVOTA. O desejo de conhecer o mundo (e a necessidade de picar a mula caso seu passado voltasse para o assombrar) se fizeram físicos em sua criação.
+
+A GAIVOTA é composta por uma base de cedro unidas por cordas e piche, sua vela propulsiva é feita de algodão pela leveza, seu leme frontal é feito de membranas reforçadas para manter sua integridade, seu leme baixo é retrátil para mobilidade em águas rasas ou próximo ao chão - se apoiando nas asas laterais para se mover. O leme traseiro é preparado para ser usado com o TUFÃO, um dispostivo teórico com o fim de propulsionar A GAIVOTA em altas velocidades.

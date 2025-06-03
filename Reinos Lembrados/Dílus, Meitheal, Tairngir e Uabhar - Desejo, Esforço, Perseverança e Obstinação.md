@@ -1,0 +1,1 @@
+Quatro irmãos ou o mesmo deus em quatro estágios diferentes da vida. Dílus representa a infância, o desejo. Meitheal representa a juventude, o esforço. Tairngir e Uabhar são dois fins possíveis para Meitheal, um bom e um mal.

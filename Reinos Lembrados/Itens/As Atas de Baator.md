@@ -1,0 +1,4 @@
+---
+
+---
+As Atas de Baator são uma coleção de textos continuamente emitidos por [[Primus]] que detalham cada acontecimento ocorrido nos [[9 Infernos de Baator]]. As Atas podem ser acessadas por qualquer criatura com uma permissão de leitura. Caso consiga a permissão, a criatura receberá uma chave única e intransferível assinalada a sua própria essência, bem como tempo finito para a consulta das Atas. Tais restrições, em adição à técnica de [[selamento]] usada, tornam as Atas impossíveis de serem adulteradas, copiadas ou tomadas de seu lugar designado. O selo aplicado nas Atas se trata de um [[Digestor Arcano de Cadeia Separada com 1024 Espaços]], essa técnica usa como base o texto descritor e o transforma em uma lista de variações mágicas com 2^1024 possibilidades.

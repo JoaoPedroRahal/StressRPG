@@ -1,0 +1,8 @@
+- [[Ferro Infernal]]
+- [[Aço Negro]]
+- [[Carvão Abismo]]
+- [[Aço Frio]]
+- [[Prata Amanhecida]]
+- [[Adamantina]]
+- [[Mithral]]
+- [[]]
