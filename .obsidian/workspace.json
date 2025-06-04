@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reinos Lembrados/povos baixos.md",
+                "file": "STRESS!/Stress! - Introdução.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "povos baixos"
+              "title": "Stress! - Introdução"
             }
           }
         ]
@@ -168,8 +168,13 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "48737f16de4bb584",
+  "active": "fc11255ce7a1e2b8",
   "lastOpenFiles": [
+    "STRESS!/relógio vital.md",
+    "STRESS!/Stress! - Introdução.md",
+    "STRESS!/elementos.md",
+    "STRESS!/Adrenalina e Choque Sistêmico.md",
+    "Reinos Lembrados/povos baixos.md",
     "Stress!",
     "Reinos Lembrados/Itens/As Atas de Baator.md",
     "Reinos Lembrados",
@@ -178,7 +183,6 @@
     "ScientiaRPG/Welcome.md",
     "ScientiaRPG",
     "Reinos Lembrados/O Demonomicon de Iggwilv.md",
-    "Reinos Lembrados/povos baixos.md",
     "Reinos Lembrados/Itens/Relíquias do Mundo Antigo.md",
     "Reinos Lembrados/Itens/Materiais exóticos.md",
     "Reinos Lembrados/Itens/textos selados.md",
@@ -198,8 +202,6 @@
     "Reinos Lembrados/Abismo.md",
     "Reinos Lembrados/Dílus, Meitheal, Tairngir e Uabhar - Desejo, Esforço, Perseverança e Obstinação.md",
     "Reinos Lembrados/Deuses Antigos.md",
-    "Reinos Lembrados/Feitiços de Banimento.md",
-    "Domínio.md",
-    "Welcome.md"
+    "Reinos Lembrados/Feitiços de Banimento.md"
   ]
 }

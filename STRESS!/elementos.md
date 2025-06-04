@@ -1,0 +1,1 @@
+Elementos são os blocos fundamentais usados para [[manobras]], [[psionismo]], [[orações]] e [[feitiços]].
